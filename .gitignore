@@ -1,0 +1,4 @@
+*.db
+file.log
+target/
+bin/
